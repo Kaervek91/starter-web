@@ -10,4 +10,5 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 Hugo is contributing very much
+then more changes from my feature branch
 Pay me more!
